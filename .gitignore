@@ -4,6 +4,7 @@ venv/
 build/
 dankag.egg-info/
 dist/
+__pycache__/
 
 # pylint
 pylintrc
