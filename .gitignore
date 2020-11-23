@@ -1,0 +1,13 @@
+# python
+venv/
+.python-version
+build/
+dankag.egg-info/
+dist/
+
+# pylint
+pylintrc
+
+# vscode
+.vscode/
+
